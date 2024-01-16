@@ -1,0 +1,7 @@
+{
+    "dependencies": {
+        "@napi-rs/canvas": "^0.1.44",
+        "axios": "^1.6.5",
+        "dotenv": "^16.3.1"
+    }
+}
